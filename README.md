@@ -199,4 +199,4 @@ This repository serves as the official landing page for Etrian Odyssey Origins C
 **Get the most recent version of Etrian Odyssey Origins Collection today!**
 
 ---
-**Last updated:** 2026-11-11 23:48:52 UTC
+**Last updated:** 2026-11-12 04:45:13 UTC
